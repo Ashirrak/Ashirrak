@@ -6,12 +6,50 @@
 
 ## 🚀 Projects & Experience
 
-- 🩺 **Django Web App** – Developed a platform to assist patients undergoing **chemotherapy**, with features like treatment tracking and patient support.
-- 🧪 **Data Mining & Clustering App** – Built with **Streamlit**, this tool visualizes and compares clustering algorithms (KMeans, DBSCAN, AGNES, DIANA).
-- 🧬 **Genomic Data Analytics** – Used **Apache Spark**, **Python**, and **MongoDB Atlas** to analyze and visualize large-scale genetic variant data.
-- 🖼️ **Image Processing Projects** – Implemented filters, segmentation, and analysis in Python for medical and grayscale image datasets.
-- 🧪 **Small Flask Projects** – Designed lightweight web tools for simple data visualizations and interactions.
-- 🎨 **UI/UX Design** – Applied design thinking to create clean, modern interfaces for web projects.
+### 🩺 Django Web App for Chemotherapy Support
+Developed a platform to assist patients undergoing **chemotherapy**, featuring treatment tracking, user profiles, and educational resources.
+
+### 📰 Blog Website (Django)
+A dynamic blog platform with post creation, category filtering, and admin functionality using **Django**, **HTML/CSS**, and **Bootstrap**.
+
+### ✅ To-Do List Web App
+Simple and clean task management app using **Django**, allowing users to create, complete, and filter tasks.
+
+### 🍽️ Restaurant Locator
+A web-based tool to find nearby restaurants using **JavaScript**, **HTML**, and **CSS**, with interactive maps.
+
+### 🧾 Stock Management System (Django)
+Inventory and sales management dashboard built with **Django**, including product tracking, reporting, and user authentication.
+
+### 🧬 Genomic Data Analytics Platform
+Analysis and visualization of **genetic variant data** using:
+- **Apache Spark**
+- **Python**
+- **Streamlit**
+- **MongoDB Atlas**
+
+### 📊 Data Mining & Clustering Interface
+Streamlit-based project for preprocessing and clustering with:
+- **KMeans**, **KMedoids**, **DBSCAN**, **AGNES**, **DIANA**
+- Visual comparison using **Silhouette Score** and other evaluation metrics
+
+### 🖼️ Image Processing Projects (TAI Module)
+Python-based labs including:
+- **TP1 – Histogrammes**: Histogram, normalized & cumulative histograms
+- **TP2 – Transformations**: Translation, inversion, histogram equalization
+- **TP3 – Quantification**: Color quantification & histograms
+- **TP4 – Convolution**: Filters (mean, Gaussian, etc.)
+- **TP5 – Contours**: Edge detection on grayscale and color images
+- **TP6 – Segmentation**: Binarization & classification
+- **TP7 – Étiquetage**: Connected component labeling
+- **TP8 – Mesures**: Region size & center of gravity measurement
+- **TP9 – Vidéo**: Frame-by-frame video display and analysis
+
+### 🔬 Small Flask Projects
+Lightweight interactive web tools for simple data visualization and logic using **Flask**.
+
+### 🎨 UI/UX Design Projects
+Designed clean and responsive user interfaces, applying **UI/UX principles** and tools to enhance user experience.
 
 ---
 

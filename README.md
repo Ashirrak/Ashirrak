@@ -93,6 +93,28 @@ Designed clean and responsive user interfaces, applying **UI/UX principles** and
   <img src="https://img.shields.io/badge/UI/UX-9932CC?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language"/>
 </p>
+---
+## 📜 Certificates & Participation
+
+- 🖥️ **Responsive Web Design**  
+  *freeCodeCamp* – Certification in building responsive and accessible websites using HTML, CSS, and Flexbox.  
+  [View Certificate]([https://drive.google.com/file/d/1wpSGPmtRjowbTZmsw-jjWdXsvhqaTJKA/view?usp=sharing])
+
+- 🏅 **Experia OMC – Certificate of Participation**  
+  Participated in Experia OMC tech event showcasing innovative solutions.  
+  [View Certificate]([https://drive.google.com/file/d/1x1WszwysYXooARiUf5d2ijRAyRZ56PhQ/view?usp=sharing])
+
+- 🎖️ **DCF – Certificate of Appreciation**  
+  Recognized for contributions and dedication.  
+  [View Certificate]([https://drive.google.com/file/d/1wnnlkEMfXVffoxwZxoJaiRzIwG5aWzUA/view?usp=sharing])
+
+- 💡 **Ideathon OMC – Certificate of Participation**  
+  Took part in a collaborative ideathon event hosted by OMC.  
+  [View Certificate]([https://drive.google.com/file/d/1x68dlLt1hpvHUorJfzH1irwBEgHtT4cE/view?usp=sharing])
+
+- 🤖 **AI Camp – Certificate of Participation**  
+  Participated in an AI-focused learning camp covering fundamentals and applications.  
+  [View Certificate]([https://drive.google.com/file/d/1x2BCHWSeE9qwpG0h9v-VmZi2Jc9CmqQC/view?usp=sharing])
 
 
 ---

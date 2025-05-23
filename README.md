@@ -93,7 +93,9 @@ Designed clean and responsive user interfaces, applying **UI/UX principles** and
   <img src="https://img.shields.io/badge/UI/UX-9932CC?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language"/>
 </p>
+
 ---
+
 ## 📜 Certificates & Participation
 
 - 🖥️ **Responsive Web Design**  

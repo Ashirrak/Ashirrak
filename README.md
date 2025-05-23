@@ -100,23 +100,23 @@ Designed clean and responsive user interfaces, applying **UI/UX principles** and
 
 - 🖥️ **Responsive Web Design**  
   *freeCodeCamp* – Certification in building responsive and accessible websites using HTML, CSS, and Flexbox.  
-  [View Certificate]([https://drive.google.com/file/d/1wpSGPmtRjowbTZmsw-jjWdXsvhqaTJKA/view?usp=sharing])
+  [View Certificate][https://drive.google.com/file/d/1wpSGPmtRjowbTZmsw-jjWdXsvhqaTJKA/view?usp=sharing]
 
 - 🏅 **Experia OMC – Certificate of Participation**  
   Participated in Experia OMC tech event showcasing innovative solutions.  
-  [View Certificate]([https://drive.google.com/file/d/1x1WszwysYXooARiUf5d2ijRAyRZ56PhQ/view?usp=sharing])
+  [View Certificate][https://drive.google.com/file/d/1x1WszwysYXooARiUf5d2ijRAyRZ56PhQ/view?usp=sharing]
 
 - 🎖️ **DCF – Certificate of Appreciation**  
   Recognized for contributions and dedication.  
-  [View Certificate]([https://drive.google.com/file/d/1wnnlkEMfXVffoxwZxoJaiRzIwG5aWzUA/view?usp=sharing])
+  [View Certificate][https://drive.google.com/file/d/1wnnlkEMfXVffoxwZxoJaiRzIwG5aWzUA/view?usp=sharing]
 
 - 💡 **Ideathon OMC – Certificate of Participation**  
   Took part in a collaborative ideathon event hosted by OMC.  
-  [View Certificate]([https://drive.google.com/file/d/1x68dlLt1hpvHUorJfzH1irwBEgHtT4cE/view?usp=sharing])
+  [View Certificate][https://drive.google.com/file/d/1x68dlLt1hpvHUorJfzH1irwBEgHtT4cE/view?usp=sharing]
 
 - 🤖 **AI Camp – Certificate of Participation**  
   Participated in an AI-focused learning camp covering fundamentals and applications.  
-  [View Certificate]([https://drive.google.com/file/d/1x2BCHWSeE9qwpG0h9v-VmZi2Jc9CmqQC/view?usp=sharing])
+  [View Certificate][https://drive.google.com/file/d/1x2BCHWSeE9qwpG0h9v-VmZi2Jc9CmqQC/view?usp=sharing]
 
 
 ---
@@ -130,6 +130,6 @@ Designed clean and responsive user interfaces, applying **UI/UX principles** and
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ashirrak-bs-3a06a7237/]) *(add your link here if you have it)*
+- 💼 [LinkedIn][https://www.linkedin.com/in/ashirrak-bs-3a06a7237/] *(add your link here if you have it)*
 - 📫 Feel free to reach out here on GitHub!
 
